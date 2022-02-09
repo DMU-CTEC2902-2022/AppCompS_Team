@@ -10,8 +10,8 @@ namespace Website
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing");
-            Console.ReadLine();
+            Console.WriteLine("Testingvcvxcvxcvxc");
+          
         }
     }
 }
