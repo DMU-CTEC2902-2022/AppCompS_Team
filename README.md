@@ -1,6 +1,6 @@
 # AppCompS Team | [Coursework Breif](https://vle.dmu.ac.uk/bbcswebdav/pid-5687216-dt-content-rid-11305925_1/courses/CTEC2902_2122_520/CTEC2902_Assignment_2_2021-2022%281%29.pdf)
 Individual Presentation <br>
-##Week 25 Lab Session (w/c: 21/03/22) <br>
+## Week 25 Lab Session (w/c: 21/03/22) <br>
 ## [Final Project Submission](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_599194_1&content_id=_5681433_1) <br>
 Friday 15th April 2022 (Week 30), 16:00 (4pm) <br>
 ### Systems Analyst / Coordinator role <br>
