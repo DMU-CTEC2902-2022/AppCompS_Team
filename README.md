@@ -9,5 +9,5 @@ Must Be Displayed displayed (I.e. modules and module codes belonging to that cou
 Course 1: Computer Science <br>
 Module Code Module Title <br>
 COS1903 Scala Programming <br>
-ETC ([Link](https://www.buckscollegegroup.ac.uk/computing-and-it target="_blank")) <br>
+ETC ([Link](https://www.buckscollegegroup.ac.uk/computing-and-it)) <br>
 
