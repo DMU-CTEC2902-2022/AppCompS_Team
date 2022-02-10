@@ -1,7 +1,7 @@
 # AppCompS
 Individual Presentation <br>
 Week 25 Lab Session (w/c: 21/03/22) <br>
-Final Project Submission <br>
+[Final Project Submission](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_599194_1&content_id=_5681433_1) <br>
 Friday 15th April 2022 (Week 30), 16:00 (4pm) <br>
 Systems Analyst / Coordinator role <br>
 Developer role @[No3Mc/Syed](https://github.com/No3Mc) <br>
