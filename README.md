@@ -9,7 +9,6 @@ Individual Presentation <br>
 - 🧑‍🦯 Resolves issues and implements the proposed ideas.
 - 📕 Debugs and executes to OO principles (e.g. encapsulation, inheritance and perhaps polymorphism)
 - 📝 Focuses on clean code and should maintain and handle errors properly to be deployed
-- 
 Must Be Displayed displayed (I.e. modules and module codes belonging to that course, staff details can be invented). <br>
 ### Course 1: Computer Science <br>
 Module Code Module Title <br>
