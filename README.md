@@ -4,7 +4,7 @@ Submissions
 - [Final Project Submission](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_599194_1&content_id=_5681433_1) || Week 25 Lab Session (w/c: 21/03/22)  ## Friday 15th April 2022 (Week 30), 16:00 (4pm)
 <br>
 Systems Analyst / Coordinator role @[Talha](https://github.com/Talhamemon25), @[Hassan](https://github.com/Hassaan2612) <br>
-[Talha](https://github.com/Talhamemon25) and [Hassan](https://github.com/Hassaan2612) will be analysing, modelling, designing the system and assign new issues to [Syed](https://github.com/No3Mc). They will be planning requirements, appropirate designs and documentation. They both will design new IT solutions, modify, enhance or adapt existing systems and integrate new features or improvements in order to improve system efficiency and productivity.
+[Talha](https://github.com/Talhamemon25) and [Hassan](https://github.com/Hassaan2612) will be analysing, modelling, designing the system and assign new issues to [Syed](https://github.com/No3Mc). They will be planning requirements, appropirate designs and documentation. They both will design new IT solutions, modify, enhance or adapt existing systems and integrate new features or improvements in order to improve system efficiency and productivity. <br>
 Developer role @[No3Mc/Syed](https://github.com/No3Mc) <br>
 - 👨‍🦯 Resolves issues and implements the proposed ideas. <br>
 - 📕 Debugs and executes to OO principles (e.g. encapsulation, inheritance and perhaps polymorphism) <br>
