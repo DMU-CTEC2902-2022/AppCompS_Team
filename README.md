@@ -5,12 +5,18 @@
 ## Systems Analyst / Coordinator role @[Talha](https://github.com/Talhamemon25), @[Hassan](https://github.com/Hassaan2612)
 [Talha](https://github.com/Talhamemon25) and [Hassan](https://github.com/Hassaan2612) will be analysing, modelling, designing the system and assign new issues to [Syed](https://github.com/No3Mc). They will be planning requirements, appropirate designs and documentation. They both will design new IT solutions, modify, enhance or adapt existing systems and integrate new features or improvements in order to improve system efficiency and productivity.
 ## Developer role @[No3Mc/Syed](https://github.com/No3Mc)
-- 👨‍🦯 Resolves issues and implements the proposed ideas. <br>
-- 📕 Debugs and executes to OO principles (e.g. encapsulation, inheritance and perhaps polymorphism) <br>
-- 📝 Focuses on clean code and should maintain and handle errors properly to be deployed <br>
-Must Be Displayed displayed (I.e. modules and module codes belonging to that course, staff details can be invented).
+- 👨‍🦯 Resolves issues and implements the proposed ideas. 
+- 📕 Debugs and executes to OO principles (e.g. encapsulation, inheritance and perhaps polymorphism) 
+- 📝 Focuses on clean code and should maintain and handle errors properly to be deployed 
+
+## REQUIREMENTS
+- [x] Must Be Displayed displayed (I.e. modules and module codes belonging to that course, staff details can be invented).
+
+
 Course 1: Computer Science 
 Module Code Module Title 
 COS1903 Scala Programming 
+
+
 ETC ([Link](https://www.buckscollegegroup.ac.uk/computing-and-it)) ([Link](https://cwa.ac.uk/courses)) ([Link](https://leicestercollege.ac.uk/courses/subjects/computing/)) ([Link](https://www.nottinghamcollege.ac.uk/study/courses?query=&subjectAreaTypes%5B0%5D=fe&subjectAreaTypes%5B1%5D=other&index=subjectAreas)) 
 
