@@ -10,8 +10,10 @@
 - 📝 Focuses on clean code and should maintain and handle errors properly to be deployed 
 
 ## REQUIREMENTS
-- [x] Must Be Displayed displayed (I.e. modules and module codes belonging to that course, staff details can be invented).
-
+- [ ] .
+- [ ] .
+- [ ] .
+ 
 
 Course 1: Computer Science 
 Module Code Module Title 
