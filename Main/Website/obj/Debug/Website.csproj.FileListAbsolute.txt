@@ -1,7 +1,0 @@
-H:\Downloads\Email\Website\bin\Debug\Website.exe.config
-H:\Downloads\Email\Website\bin\Debug\Website.exe
-H:\Downloads\Email\Website\bin\Debug\Website.pdb
-H:\Downloads\Email\Website\obj\Debug\Website.csproj.AssemblyReference.cache
-H:\Downloads\Email\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
-H:\Downloads\Email\Website\obj\Debug\Website.exe
-H:\Downloads\Email\Website\obj\Debug\Website.pdb
