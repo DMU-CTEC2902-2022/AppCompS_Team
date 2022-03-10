@@ -1,12 +1,12 @@
 ### “A goal without a plan is just a wish.” — Antoine de Saint-Exupéry
 
 
- Planned by @Talhamemon25 and @Hassaan2612 <br>
- Executed by @No3Mc <br>
+ Planned by [@Talhamemon25](https://github.com/Talhamemon25) and [@Hassaan2612](https://github.com/Hassaan2612) <br>
+ Executed by [@No3Mc](https://github.com/No3Mc) <br>
 
 
 
-
+Detailed in [WIKI](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation)
 
 
 
