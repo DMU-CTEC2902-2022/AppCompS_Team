@@ -1,8 +1,8 @@
 ### “A goal without a plan is just a wish.” — Antoine de Saint-Exupéry
 
 
- Planned by [@Talhamemon25](https://github.com/Talhamemon25) and [@Hassaan2612](https://github.com/Hassaan2612) <br>
- Executed by [@No3Mc](https://github.com/No3Mc) <br>
+ Documentation by [@Talhamemon25](https://github.com/Talhamemon25) and [@Hassaan2612](https://github.com/Hassaan2612) <br>
+ Development by [@No3Mc](https://github.com/No3Mc) <br>
 
 
 
