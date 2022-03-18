@@ -17,6 +17,9 @@ To explain the visual structure of our MVP Project. <br>
 
 2. UML diagram : <br>
 To get a better understanding of actors, roles, actions, classes in our system.<br>
+**Draft**
+
+![image](https://user-images.githubusercontent.com/96621035/159036348-551b0bb1-ad05-4eb0-993e-9bd0c8034829.png)
 
 3. Use case diagram : <br>
 Elaborates high-level functions and scope of a system <br>
