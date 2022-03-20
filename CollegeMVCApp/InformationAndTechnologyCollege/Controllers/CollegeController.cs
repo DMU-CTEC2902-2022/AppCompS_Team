@@ -17,10 +17,11 @@ namespace InformationAndTechnologyCollege.Controllers
         {
             return "Courses Page";
         }
-        public string Course(int id)
-        {
-            return "Course: Id = " + id.ToString();
-        }
+        //Error #16
+        //public string Course(int id)
+        //{
+        //    return "Course: Id = " + id.ToString();
+        //}
 
     }
 }
