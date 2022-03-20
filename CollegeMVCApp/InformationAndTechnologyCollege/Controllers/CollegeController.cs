@@ -13,15 +13,12 @@ namespace InformationAndTechnologyCollege.Controllers
         {
             return "College Index";
         }
-        public string Course()
+
+        public string Course(string Type, string Colour)
+
         {
-            return "Courses Page";
+            return String.Format("Product Type = {0}, Colour={1}", Type, Colour);
         }
-        //Error #16
-        //public string Course(int id)
-        //{
-        //    return "Course: Id = " + id.ToString();
-        //}
 
     }
 }
