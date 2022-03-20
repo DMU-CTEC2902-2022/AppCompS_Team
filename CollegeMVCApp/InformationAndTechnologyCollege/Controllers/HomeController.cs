@@ -9,17 +9,21 @@ namespace InformationAndTechnologyCollege.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
         public ActionResult Index()
         {
-            NewStoryModel newStory = new NewStoryModel()
-            {
-                Headline = "Phew what a scorcher",
-                ByLine = "Ron Journo",
-                Content = "British people are obsessed with the weather"
-            };
-
-            return View(newStory);
+            return View();
+        }
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your application description page.";
+            return View();
+        }
+        
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+            return View();
         }
     }
+
 }
