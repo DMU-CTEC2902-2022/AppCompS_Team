@@ -12,18 +12,26 @@ Detailed in [WIKI](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Proje
 
 
 
+
+
 # Diagrams
 
-1. UI diagram : <br>
+1. UI diagrams : <br>
 To explain the visual structure of our MVP Project. <br>
+
+
+
+
+
 
 **Main Welcome Page**
 ![1](https://user-images.githubusercontent.com/96621035/159575987-0d9b1592-3a7d-4c4a-986b-4f51bf2fe2fe.png) <br>
 **Register page**
 ![2](https://user-images.githubusercontent.com/96621035/159575985-c16377e4-902a-4e60-a012-20bf48fc5ef8.png) <br>
 
+**Functional behaviour behind registration**<br>
 
-
+![image](https://user-images.githubusercontent.com/96621035/159582541-914f7833-7666-47cb-b6dd-fd4f6b96c80c.png)
 
 
 
