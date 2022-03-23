@@ -1,7 +1,7 @@
 
 <div dir=rtl markdown=1> For clarification of project's timeline click the IMG below</div>
 
-[<img align="right" src="https://user-images.githubusercontent.com/41834061/159692919-fed19f7f-10c9-42ac-bb76-c734c3155e1f.png" width="300" height="800" >](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/blob/main/Timeline.pdf)  <br>
+[<img align="right" src="https://user-images.githubusercontent.com/41834061/159692919-fed19f7f-10c9-42ac-bb76-c734c3155e1f.png" width="200" height="800" >](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/blob/main/Timeline.pdf)  <br>
 
 # AppCompS Team <br> [Coursework Breif](https://vle.dmu.ac.uk/bbcswebdav/pid-5687216-dt-content-rid-11305925_1/courses/CTEC2902_2122_520/CTEC2902_Assignment_2_2021-2022%281%29.pdf) [<img src="https://user-images.githubusercontent.com/41834061/155518050-bc9db224-532c-487f-a538-a074905e6bd7.svg" width="30" height="30">](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki) 
 
@@ -23,7 +23,7 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 | [Task](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#task-)  |  What is the the task of [collaborators](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#authorship)  |
 | [Project's Breif ](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#project-brief)   |  What's The project about   |
 | [Project Inspired by](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#examples) |  Computing and IT (buckscollegegroup.ac.uk)  <br>  Courses (cwa.ac.uk) <br> Computing and Digital Courses - Leicester College <br> Courses A-Z | Nottingham College |
-|  |   |
+
 
 <h1>Documentation</h1>
 
