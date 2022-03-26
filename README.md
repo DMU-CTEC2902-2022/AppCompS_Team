@@ -18,7 +18,7 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 <h1>Wiki</h1>
 
 
-| Wiki | Details |
+| Wiki OG| Details |
 | --- | --- |
 | [Task](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#task-)  |  What is the the task of [collaborators](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#authorship)  |
 | [Project's Breif ](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#project-brief)   |  What's The project about   |
