@@ -1,7 +1,7 @@
 
 <div dir=rtl markdown=1> For clarification of project's timeline click the IMG below</div>
 
-[<img align="right" src="https://user-images.githubusercontent.com/41834061/159692919-fed19f7f-10c9-42ac-bb76-c734c3155e1f.png" width="200" height="800" >](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/blob/main/Timeline.pdf)  <br>
+[<img align="right" src="https://user-images.githubusercontent.com/96626987/161779889-748927c3-271e-4e47-b338-6c6938d47fa5.png" width="400" height="950" >](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/blob/main/Timeline.pdf)  <br>
 
 # AppCompS Team <br> [Coursework Breif](https://vle.dmu.ac.uk/bbcswebdav/pid-5687216-dt-content-rid-11305925_1/courses/CTEC2902_2122_520/CTEC2902_Assignment_2_2021-2022%281%29.pdf) [<img src="https://user-images.githubusercontent.com/41834061/155518050-bc9db224-532c-487f-a538-a074905e6bd7.svg" width="30" height="30">](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki) 
 
