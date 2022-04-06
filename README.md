@@ -48,6 +48,7 @@ Working as a Developer.<br>
 | [Test Plans](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#test-plans-)  |  Team's working on it |
 | [Project's Overview](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki#overview) |  Defines the system overview |
 | [Requirements](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#requirements) | Mandatory tasks  | 
+| [Issues](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Issues-or-Errors) | Issues or problems faced during the making of MVC Website  | 
 
 <h1>Individual Wiki</h1>
 
