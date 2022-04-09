@@ -32,8 +32,7 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 Working as a System Analyst. <br>
 [Hassaan](https://github.com/Hassaan2612)
 Working as a System Analyst.<br>
-[Syed](https://github.com/No3Mc)
-Working as a Developer.<br>
+
 
 
 
@@ -50,8 +49,6 @@ Working as a Developer.<br>
 
 <h1>Individual Wiki</h1>
 
-* [Syed's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Syed) <br>
 * [Talha's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Talha) <br>
 * [Hassan's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Hassaan) <br>
 
-![](https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif)
