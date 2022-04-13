@@ -37,7 +37,7 @@ Working as a System Analyst.<br>
 
 
 <h1>Documentation</h1>
-
+<summary>&#128187 <b>Documentation</b></summary><br/>
 
 | Documentation | Details |
 | --- | --- |
