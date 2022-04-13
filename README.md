@@ -46,8 +46,10 @@ Working as a System Analyst.<br>
 | [Issues](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Issues-or-Errors) | Issues or problems faced during the making of MVC Website  | 
   </details>
 
+<details>
 <h1>Individual Wiki</h1>
+<summary>&#128187 <b><h1>Individual</h1></b></summary><br/>
 
 * [Talha's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Talha) <br>
 * [Hassan's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Hassaan) <br>
-
+</details>
