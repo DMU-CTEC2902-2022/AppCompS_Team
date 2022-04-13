@@ -26,14 +26,14 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 | [Project Inspired by](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#examples) |  Computing and IT (buckscollegegroup.ac.uk)  <br>  Courses (cwa.ac.uk) <br> Computing and Digital Courses - Leicester College <br> Courses A-Z | Nottingham College |
 
 <h1>Team members</h1>
-<h4>
-There are three members in the group as listed below: <br>
+<h5>
+There are three members in the group as listed below: <br><br>
 
 [Talha](https://github.com/Talhamemon25) 
 Working as a System Analyst. <br>
 [Hassaan](https://github.com/Hassaan2612)
 Working as a System Analyst.<br>
-</h4>
+</h5>
 
 <details>
 <summary>&#128187 <b><h1>Documentation</h1></b></summary><br/>
