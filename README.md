@@ -29,10 +29,10 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 <h5>
 There are three members in the group as listed below: <br><br>
 
-[Talha](https://github.com/Talhamemon25) 
-Working as a System Analyst. <br>
-[Hassaan](https://github.com/Hassaan2612)
-Working as a System Analyst.<br>
+<b>[Talha](https://github.com/Talhamemon25)</b><br>
+Working as a System Analyst/Coordinator. <br>
+<b>[Hassaan](https://github.com/Hassaan2612)</b><br>
+Working as a System Analyst/Coordinator.<br>
 </h5>
 
 <details>
@@ -50,7 +50,10 @@ Working as a System Analyst.<br>
 <details>
 <h1>Individual Wiki</h1>
 <summary>&#128187 <b><h1>Individual</h1></b></summary><br/>
-
+<h2>
+  
 * [Talha's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Talha) <br>
 * [Hassan's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Hassaan) <br>
+  
+  </h2>
 </details>
