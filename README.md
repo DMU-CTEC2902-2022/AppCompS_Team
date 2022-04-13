@@ -16,15 +16,16 @@ For a guide to help in Project, see [Wiki](https://github.com/DMU-CTEC2902-2022/
 - Individual Presentation || Week 25 Lab Session (w/c: 21/03/22) 
 - [Final Project Submission](https://vle.dmu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_599194_1&content_id=_5681433_1) || Friday 15th April 2022 (Week 28), 16:00 (4pm)
 
-
+<details>
 <h1>Wiki</h1> <br>
+<summary>&#128187 <b><h1>Wiki Page brief</h1></b></summary><br/>
 
 | Wiki OG| Details |
 | --- | --- |
 | [Task](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#task-)  |  What is the the task of [collaborators](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#authorship)  |
 | [Project's Breif ](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#project-brief)   |  What's The project about   |
 | [Project Inspired by](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Coursework-Brief#examples) |  Computing and IT (buckscollegegroup.ac.uk)  <br>  Courses (cwa.ac.uk) <br> Computing and Digital Courses - Leicester College <br> Courses A-Z | Nottingham College |
-
+</details>
 <h1>Team members</h1>
 <h5>
 There are three members in the group as listed below: <br><br>
@@ -48,12 +49,11 @@ Working as a System Analyst/Coordinator.<br>
   </details>
 
 <details>
-<h1>Individual Wiki</h1>
-<summary>&#128187 <b><h1>Individual</h1></b></summary><br/>
+<summary>&#128187 <b><h1>Individual Wiki </h1></b></summary><br/>
 <h2>
   
 * [Talha's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Talha) <br>
-* [Hassan's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Hassaan) <br>
+* [Hassaan's Wiki](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Wiki-by-Hassaan) <br>
   
   </h2>
 </details>
