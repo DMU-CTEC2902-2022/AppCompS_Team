@@ -34,7 +34,7 @@ Working as a System Analyst. <br>
 Working as a System Analyst.<br>
 
 
-<detail>
+<details>
 <summary>&#128187 <b><h1>Documentation</h1></b></summary><br/>
 
 | Documentation | Details |
@@ -44,7 +44,7 @@ Working as a System Analyst.<br>
 | [Project's Overview](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki#overview) |  Defines the system overview |
 | [Requirements](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#requirements) | Mandatory tasks  | 
 | [Issues](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Issues-or-Errors) | Issues or problems faced during the making of MVC Website  | 
-  </detail>
+  </details>
 
 <h1>Individual Wiki</h1>
 
