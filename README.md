@@ -1,5 +1,5 @@
 
-<div dir=rtl markdown=1> For clarification of project's timeline click the IMG below</div>
+<div dir=rtl markdown=1> <b>For clarification of project's timeline click the IMG below</b></div>
 
 [<img align="right" src="https://user-images.githubusercontent.com/96626987/161779889-748927c3-271e-4e47-b338-6c6938d47fa5.png" width="300" height="700" >](file:///C:/Users/44743/Downloads/TM.pdf)  <br>
 
