@@ -42,11 +42,13 @@ Working as a System Analyst/Coordinator.<br>
 | Documentation | Details |
 | --- | --- |
 | [Diagrams](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#diagrams) | Diagrams that define the system for easier understanding    |
-| [Test Plans](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#test-plans-)  |  Team's working on it |
+| [Test Plans](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Test-Plans)  |  Test Plans according to reaserch |
 | [Project's Overview](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki#overview) |  Defines the system overview |
 | [Requirements](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Project's-Documentation#requirements) | Mandatory tasks  | 
 | [Issues](https://github.com/DMU-CTEC2902-2022/AppCompS_Team/wiki/Issues-or-Errors) | Issues or problems faced during the making of MVC Website  | 
   </details>
+
+# References
 
 <details>
 <summary>&#128187 <b><h1>Individual Wiki </h1></b></summary><br/>
